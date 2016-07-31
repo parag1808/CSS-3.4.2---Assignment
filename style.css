@@ -1,0 +1,20 @@
+#boxContainer{
+	margin:0 auto;
+	width:250px;
+	padding:25px;
+	background:#000391;
+	
+}
+
+#contentContainer{
+	padding:20px;
+	
+	background:#5ac4ed;
+}
+
+#contentContainer p{
+	font-size:14px;
+	font-family:"Myriad Pro",arial;
+	color:#373737;
+}
+
